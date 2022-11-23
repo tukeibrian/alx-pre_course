@@ -2,7 +2,7 @@
 bin/bash
 echo "School"
 #!/bin/bash
-echo "School"
-#!/bin/bash
+
+#!ibin/bash
 #echo "School"
 #
